@@ -9,9 +9,8 @@
 
   **Create and Activate Conda Environment**
   
-     ```
      conda create -n hydrangea python=3.11 tensorflow=2.16.1
      conda activate hydrangea
-    ```
+     
 2. Running on Kaggle:
   You can also run the [Hydrangea Classification.ipynb ](https://www.kaggle.com/code/elenamotonishi/hydrangea-classification?scriptVersionId=189850834)notebook directly on Kaggle.
