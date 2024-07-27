@@ -13,4 +13,4 @@
      conda activate hydrangea
      
 2. Running on Kaggle:
-  You can also run the [Hydrangea Classification.ipynb ](https://www.kaggle.com/code/elenamotonishi/hydrangea-classification?scriptVersionId=189850834)notebook directly on Kaggle.
+  You can also run the [Hydrangea Classification.ipynb](https://www.kaggle.com/code/elenamotonishi/beginner-hydrangea-classification?scriptVersionId=189850834) notebook directly on Kaggle.
