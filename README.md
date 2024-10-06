@@ -1,5 +1,9 @@
 # Hydrangea-Classification
 
+## Introduction
+
+Although hydrangeas have felt familiar to me since childhood, I recently noticed that there are so many different varieties. Fascinated by their beauty and playfulness, I've decided to make a classification model of hydrangea's images.
+
 ## Data Collection
 1. Register for an account on [SerpApi](https://serpapi.com/) and obtain your API key.
 2. Add your API key to the `Data Collection.ipynb` file.
